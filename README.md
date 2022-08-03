@@ -1,16 +1,12 @@
-# WebStreet Architecture Repository
+# Repo Architectural
 
-This WebStreet repository is jointly owned and developed by our IT staff in order to consolidate shared resources, tools and lessons learned.
+Ce repository a pour but de détailler les différentes conclusio que nous a apporté notre PoC relativement à la mise en place de l'API de prise en charges des patients MedHead
 
-# Organisational Artefacts
-
-* [RACI Matrix](./Images/11_RACI.xlsx)
-
-
-# Architecture Artefacts
-
-* [Request for Architecture Work Document](./Artefacts/Request%20for%20Architecture%20Work/README.md)
-* [Tailored Architecture Framework Document](./Artefacts/Tailored%20Architecture%20Framework/README.md)
-* [Building Blocks](./Artefacts/Building%20Blocks/README.md)
+# Documents liés à la mise en place de notre PoC
+* [Énoncé des travaux architecturaux](./Artefacts/Enonce%20des%20travaux%20architecturaux/README.md)
+* [Principes architecturaux](./Artefacts/Principes%20de%20l%20architecture/README.md)
+* [Hypothèses de validation](./Artefacts/Hypotheses%20de%20validation/README.md)
+* [Document de stratégie de test](./Artefacts/Document%20de%20strategie%20de%20test/README.md)
+* [Elements de base](./Artefacts/Elements%20de%20base/README.md)
 
 
