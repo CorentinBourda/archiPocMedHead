@@ -10,3 +10,7 @@ Afin de permettre aux équipes de se préparer le mieux possible aux risques du 
 | MapBox ne répond pas |5|1|Les prises en charge ne peuvent pas se faire via l'application|
 | L'équipe de parvient pas à finir dans les temps| 3| 2| Le projet verra sa date de fin décalée|
 | Tous les serveurs sont à l'arrêt| 5| 1| L'application ne fonctionne plus|
+
+**A. Enterprise Architecture Principles:**
+**B. IT (System, Data, Solutions, Security, and Operations) Architecture Principles:**
+**C. Architectural Methodology and Process Principles:**
