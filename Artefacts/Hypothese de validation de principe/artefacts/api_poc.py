@@ -7,7 +7,7 @@ import random
 from faker import Faker
 
 fake = Faker()
-URL = "http://localhost:8999/hospital/reserve_bed"
+URL = "http://206.189.124.90:9000/hospital/reserve_bed"
 types = [u"radiologie", u"réanimation"]
 duration = 0
 headers = {"Content-type: application/json"}
