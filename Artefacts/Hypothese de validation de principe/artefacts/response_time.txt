@@ -1,0 +1,10 @@
+{"timestamp":"2022-08-17T11:19:30.468+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00934410095215 
+{"timestamp":"2022-08-17T11:19:30.476+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00776696205139 
+{"timestamp":"2022-08-17T11:19:30.488+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00934290885925 
+{"timestamp":"2022-08-17T11:19:30.496+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0070059299469 
+{"timestamp":"2022-08-17T11:19:30.505+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00763511657715 
+{"timestamp":"2022-08-17T11:19:30.515+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00765204429626 
+{"timestamp":"2022-08-17T11:19:30.524+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0075261592865 
+{"timestamp":"2022-08-17T11:19:30.534+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00874495506287 
+{"timestamp":"2022-08-17T11:19:30.543+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00710797309875 
+Average duration of 0.00721261501312s
