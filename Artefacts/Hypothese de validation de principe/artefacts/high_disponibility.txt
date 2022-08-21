@@ -1,0 +1,42 @@
+{"id":336,"startDate":"2022-08-21T12:24:11.52295891","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":345} with a duration of 1.28129291534 
+{"id":337,"startDate":"2022-08-21T12:24:12.266248039","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":346} with a duration of 0.477546930313 
+{"id":338,"startDate":"2022-08-21T12:24:13.253857952","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":347} with a duration of 1.54434990883 
+{"id":339,"startDate":"2022-08-21T12:24:14.241984094","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":348} with a duration of 0.434036970139 
+{"id":340,"startDate":"2022-08-21T12:24:15.254587431","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":349} with a duration of 1.50751495361 
+{"id":341,"startDate":"2022-08-21T12:24:16.193197703","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":350} with a duration of 0.609427928925 
+{"id":342,"startDate":"2022-08-21T12:24:17.38569077","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":351} with a duration of 1.32911992073 
+{"id":343,"startDate":"2022-08-21T12:24:18.150241391","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":352} with a duration of 0.448662996292 
+{"id":344,"startDate":"2022-08-21T12:24:19.152785768","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":353} with a duration of 1.26219511032 
+{"id":345,"startDate":"2022-08-21T12:24:19.834860605","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":354} with a duration of 0.535649061203 
+{"id":346,"startDate":"2022-08-21T12:24:20.95146816","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":355} with a duration of 1.52794194221 
+{"id":347,"startDate":"2022-08-21T12:24:21.919538614","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":356} with a duration of 0.419646978378 
+{"id":348,"startDate":"2022-08-21T12:24:22.900701655","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":357} with a duration of 1.525826931 
+{"id":349,"startDate":"2022-08-21T12:24:23.885055881","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":358} with a duration of 0.436001062393 
+{"id":350,"startDate":"2022-08-21T12:24:24.885254878","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":359} with a duration of 1.40888905525 
+{"id":351,"startDate":"2022-08-21T12:24:25.729111995","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":360} with a duration of 0.702763080597 
+{"id":352,"startDate":"2022-08-21T12:24:27.03041998","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":361} with a duration of 1.32529497147 
+{"id":353,"startDate":"2022-08-21T12:24:27.765077205","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":362} with a duration of 0.612803936005 
+{"id":354,"startDate":"2022-08-21T12:24:28.996365035","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":363} with a duration of 1.32568407059 
+
+Serveur n°1 is down
+
+{"id":355,"startDate":"2022-08-21T12:24:48.463100531","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":364} with a duration of 1.36530685425 
+{"id":356,"startDate":"2022-08-21T12:24:49.642501695","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":365} with a duration of 1.17723107338 
+{"id":357,"startDate":"2022-08-21T12:24:50.824430007","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":366} with a duration of 1.19803309441 
+{"id":358,"startDate":"2022-08-21T12:24:52.06709364","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":367} with a duration of 1.41047096252 
+{"id":359,"startDate":"2022-08-21T12:24:53.463301794","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":368} with a duration of 1.22508716583 
+{"id":360,"startDate":"2022-08-21T12:24:54.6831331","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":369} with a duration of 1.20309281349 
+{"id":361,"startDate":"2022-08-21T12:24:55.865413135","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":370} with a duration of 1.17265605927 
+{"id":362,"startDate":"2022-08-21T12:24:57.051915213","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":371} with a duration of 1.19764304161 
+{"id":363,"startDate":"2022-08-21T12:24:58.265546912","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":372} with a duration of 1.19115304947 
+{"id":364,"startDate":"2022-08-21T12:24:59.438201402","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":373} with a duration of 1.16988706589 
+{"id":365,"startDate":"2022-08-21T12:25:00.61629268","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":374} with a duration of 1.21725201607 
+{"id":366,"startDate":"2022-08-21T12:25:01.915730597","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":375} with a duration of 1.32888197899 
+{"id":367,"startDate":"2022-08-21T12:25:03.177266803","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":376} with a duration of 1.22402095795 
+{"id":368,"startDate":"2022-08-21T12:25:04.41976966","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":377} with a duration of 1.32800388336 
+{"id":369,"startDate":"2022-08-21T12:25:05.767938139","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":378} with a duration of 1.53108000755 
+{"id":370,"startDate":"2022-08-21T12:25:07.352076271","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":379} with a duration of 1.32779502869 
+{"id":371,"startDate":"2022-08-21T12:25:08.608160254","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":380} with a duration of 1.32752609253 
+{"id":372,"startDate":"2022-08-21T12:25:09.915342164","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":381} with a duration of 1.16690707207 
+{"id":373,"startDate":"2022-08-21T12:25:11.102028432","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":382} with a duration of 1.19500899315 
+Server n°2 working alone

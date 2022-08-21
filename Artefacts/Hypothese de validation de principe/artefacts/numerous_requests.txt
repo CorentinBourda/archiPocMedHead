@@ -1,100 +1,100 @@
-{"timestamp":"2022-08-17T11:19:29.487+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0179679393768s 
-{"timestamp":"2022-08-17T11:19:29.497+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0069727897644s 
-{"timestamp":"2022-08-17T11:19:29.506+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00713300704956s 
-{"timestamp":"2022-08-17T11:19:29.514+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00691604614258s 
-{"timestamp":"2022-08-17T11:19:29.524+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00871920585632s 
-{"timestamp":"2022-08-17T11:19:29.533+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00733709335327s 
-{"timestamp":"2022-08-17T11:19:29.542+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00712299346924s 
-{"timestamp":"2022-08-17T11:19:29.552+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0086498260498s 
-{"timestamp":"2022-08-17T11:19:29.560+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00693511962891s 
-{"timestamp":"2022-08-17T11:19:29.569+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00740790367126s 
-{"timestamp":"2022-08-17T11:19:29.578+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00718903541565s 
-{"timestamp":"2022-08-17T11:19:29.586+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00666904449463s 
-{"timestamp":"2022-08-17T11:19:29.594+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00678896903992s 
-{"timestamp":"2022-08-17T11:19:29.604+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00874185562134s 
-{"timestamp":"2022-08-17T11:19:29.614+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0100040435791s 
-{"timestamp":"2022-08-17T11:19:29.624+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00810313224792s 
-{"timestamp":"2022-08-17T11:19:29.635+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.010066986084s 
-{"timestamp":"2022-08-17T11:19:29.645+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00813889503479s 
-{"timestamp":"2022-08-17T11:19:29.655+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00689291954041s 
-{"timestamp":"2022-08-17T11:19:29.663+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00705599784851s 
-{"timestamp":"2022-08-17T11:19:29.673+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00728607177734s 
-{"timestamp":"2022-08-17T11:19:29.681+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00745105743408s 
-{"timestamp":"2022-08-17T11:19:29.691+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00967288017273s 
-{"timestamp":"2022-08-17T11:19:29.701+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00768995285034s 
-{"timestamp":"2022-08-17T11:19:29.710+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00712990760803s 
-{"timestamp":"2022-08-17T11:19:29.720+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00851202011108s 
-{"timestamp":"2022-08-17T11:19:29.729+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0087308883667s 
-{"timestamp":"2022-08-17T11:19:29.742+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0111629962921s 
-{"timestamp":"2022-08-17T11:19:29.755+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0100688934326s 
-{"timestamp":"2022-08-17T11:19:29.766+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.009113073349s 
-{"timestamp":"2022-08-17T11:19:29.775+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00887203216553s 
-{"timestamp":"2022-08-17T11:19:29.788+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00838780403137s 
-{"timestamp":"2022-08-17T11:19:29.797+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00723481178284s 
-{"timestamp":"2022-08-17T11:19:29.806+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00718307495117s 
-{"timestamp":"2022-08-17T11:19:29.817+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0093240737915s 
-{"timestamp":"2022-08-17T11:19:29.826+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00855898857117s 
-{"timestamp":"2022-08-17T11:19:29.838+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0100498199463s 
-{"timestamp":"2022-08-17T11:19:29.847+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00695395469666s 
-{"timestamp":"2022-08-17T11:19:29.859+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0100920200348s 
-{"timestamp":"2022-08-17T11:19:29.868+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00750112533569s 
-{"timestamp":"2022-08-17T11:19:29.876+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00675702095032s 
-{"timestamp":"2022-08-17T11:19:29.887+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00989508628845s 
-{"timestamp":"2022-08-17T11:19:29.896+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00727915763855s 
-{"timestamp":"2022-08-17T11:19:29.906+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00744819641113s 
-{"timestamp":"2022-08-17T11:19:29.914+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00713682174683s 
-{"timestamp":"2022-08-17T11:19:29.923+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00701904296875s 
-{"timestamp":"2022-08-17T11:19:29.933+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00897097587585s 
-{"timestamp":"2022-08-17T11:19:29.943+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00815606117249s 
-{"timestamp":"2022-08-17T11:19:29.952+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00700402259827s 
-{"timestamp":"2022-08-17T11:19:29.960+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0070960521698s 
-{"timestamp":"2022-08-17T11:19:29.970+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00885319709778s 
-{"timestamp":"2022-08-17T11:19:29.979+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00744819641113s 
-{"timestamp":"2022-08-17T11:19:29.988+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0082311630249s 
-{"timestamp":"2022-08-17T11:19:29.997+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00739789009094s 
-{"timestamp":"2022-08-17T11:19:30.008+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00899004936218s 
-{"timestamp":"2022-08-17T11:19:30.017+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00788307189941s 
-{"timestamp":"2022-08-17T11:19:30.027+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00695204734802s 
-{"timestamp":"2022-08-17T11:19:30.037+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00915908813477s 
-{"timestamp":"2022-08-17T11:19:30.048+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00920486450195s 
-{"timestamp":"2022-08-17T11:19:30.059+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0096127986908s 
-{"timestamp":"2022-08-17T11:19:30.072+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.01127409935s 
-{"timestamp":"2022-08-17T11:19:30.082+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0110869407654s 
-{"timestamp":"2022-08-17T11:19:30.094+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00884985923767s 
-{"timestamp":"2022-08-17T11:19:30.106+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00966191291809s 
-{"timestamp":"2022-08-17T11:19:30.117+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00828194618225s 
-{"timestamp":"2022-08-17T11:19:30.126+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00720620155334s 
-{"timestamp":"2022-08-17T11:19:30.136+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0105278491974s 
-{"timestamp":"2022-08-17T11:19:30.146+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00710082054138s 
-{"timestamp":"2022-08-17T11:19:30.155+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00737404823303s 
-{"timestamp":"2022-08-17T11:19:30.164+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00776290893555s 
-{"timestamp":"2022-08-17T11:19:30.175+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00952982902527s 
-{"timestamp":"2022-08-17T11:19:30.185+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0076379776001s 
-{"timestamp":"2022-08-17T11:19:30.195+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00836801528931s 
-{"timestamp":"2022-08-17T11:19:30.204+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00766396522522s 
-{"timestamp":"2022-08-17T11:19:30.213+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00864315032959s 
-{"timestamp":"2022-08-17T11:19:30.222+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00705122947693s 
-{"timestamp":"2022-08-17T11:19:30.231+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00726389884949s 
-{"timestamp":"2022-08-17T11:19:30.240+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00714111328125s 
-{"timestamp":"2022-08-17T11:19:30.252+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0122120380402s 
-{"timestamp":"2022-08-17T11:19:30.262+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00844311714172s 
-{"timestamp":"2022-08-17T11:19:30.277+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0116310119629s 
-{"timestamp":"2022-08-17T11:19:30.291+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.0108449459076s 
-{"timestamp":"2022-08-17T11:19:30.303+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00909304618835s 
-{"timestamp":"2022-08-17T11:19:30.312+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00709390640259s 
-{"timestamp":"2022-08-17T11:19:30.321+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00750398635864s 
-{"timestamp":"2022-08-17T11:19:30.331+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00846385955811s 
-{"timestamp":"2022-08-17T11:19:30.342+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00967597961426s 
-{"timestamp":"2022-08-17T11:19:30.351+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00702309608459s 
-{"timestamp":"2022-08-17T11:19:30.359+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00801515579224s 
-{"timestamp":"2022-08-17T11:19:30.369+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00736212730408s 
-{"timestamp":"2022-08-17T11:19:30.378+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00726890563965s 
-{"timestamp":"2022-08-17T11:19:30.387+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00847816467285s 
-{"timestamp":"2022-08-17T11:19:30.398+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00913310050964s 
-{"timestamp":"2022-08-17T11:19:30.409+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00848698616028s 
-{"timestamp":"2022-08-17T11:19:30.418+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00760793685913s 
-{"timestamp":"2022-08-17T11:19:30.428+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00851392745972s 
-{"timestamp":"2022-08-17T11:19:30.438+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00887799263s 
-{"timestamp":"2022-08-17T11:19:30.447+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00705599784851s 
-{"timestamp":"2022-08-17T11:19:30.457+00:00","status":400,"error":"Bad Request","message":"","path":"/hospital/reserve_bed"} with a duration of 0.00829219818115s 
-100 requests. Total duration of 0.829786300659s
+{"id":199,"startDate":"2022-08-21T12:21:17.099779687","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":208} with a duration of 0.438460111618s 
+{"id":200,"startDate":"2022-08-21T12:21:18.151971437","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":209} with a duration of 1.49929594994s 
+{"id":201,"startDate":"2022-08-21T12:21:19.066020531","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":210} with a duration of 0.459012985229s 
+{"id":202,"startDate":"2022-08-21T12:21:20.072589821","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":211} with a duration of 1.48054790497s 
+{"id":203,"startDate":"2022-08-21T12:21:20.963730931","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":212} with a duration of 0.592217922211s 
+{"id":204,"startDate":"2022-08-21T12:21:22.154763203","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":213} with a duration of 1.34902405739s 
+{"id":205,"startDate":"2022-08-21T12:21:22.924745657","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":214} with a duration of 0.614290952682s 
+{"id":206,"startDate":"2022-08-21T12:21:24.101402331","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":215} with a duration of 1.50588607788s 
+{"id":207,"startDate":"2022-08-21T12:21:25.056889907","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":216} with a duration of 0.436674118042s 
+{"id":208,"startDate":"2022-08-21T12:21:26.058721434","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":217} with a duration of 1.52672600746s 
+{"id":209,"startDate":"2022-08-21T12:21:27.02660617","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":218} with a duration of 0.43225979805s 
+{"id":210,"startDate":"2022-08-21T12:21:28.018429","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":219} with a duration of 1.51007318497s 
+{"id":211,"startDate":"2022-08-21T12:21:28.962037338","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":220} with a duration of 0.447525024414s 
+{"id":212,"startDate":"2022-08-21T12:21:29.991298019","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":221} with a duration of 1.46868014336s 
+{"id":213,"startDate":"2022-08-21T12:21:30.915428124","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":222} with a duration of 0.633234977722s 
+{"id":214,"startDate":"2022-08-21T12:21:32.132521272","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":223} with a duration of 1.3263220787s 
+{"id":215,"startDate":"2022-08-21T12:21:32.868126965","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":224} with a duration of 0.615789890289s 
+{"id":216,"startDate":"2022-08-21T12:21:34.06132701","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":225} with a duration of 1.32642292976s 
+{"id":217,"startDate":"2022-08-21T12:21:35.196773947","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":226} with a duration of 0.916429042816s 
+{"id":218,"startDate":"2022-08-21T12:21:36.285615123","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":227} with a duration of 1.32733798027s 
+{"id":219,"startDate":"2022-08-21T12:21:37.083537548","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":228} with a duration of 0.510530948639s 
+{"id":220,"startDate":"2022-08-21T12:21:38.157402281","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":229} with a duration of 1.42976784706s 
+{"id":221,"startDate":"2022-08-21T12:21:39.014710241","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":230} with a duration of 0.549046993256s 
+{"id":222,"startDate":"2022-08-21T12:21:40.119427185","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":231} with a duration of 1.3916580677s 
+{"id":223,"startDate":"2022-08-21T12:21:40.968929496","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":232} with a duration of 0.444905996323s 
+{"id":224,"startDate":"2022-08-21T12:21:41.962461772","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":233} with a duration of 1.49381113052s 
+{"id":225,"startDate":"2022-08-21T12:21:42.903362929","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":234} with a duration of 0.615097045898s 
+{"id":226,"startDate":"2022-08-21T12:21:44.077291331","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":235} with a duration of 1.32192397118s 
+{"id":227,"startDate":"2022-08-21T12:21:44.838151694","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":236} with a duration of 0.427132129669s 
+{"id":228,"startDate":"2022-08-21T12:21:45.834169014","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":237} with a duration of 1.5152349472s 
+{"id":229,"startDate":"2022-08-21T12:21:46.805021304","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":238} with a duration of 0.612008094788s 
+{"id":230,"startDate":"2022-08-21T12:21:47.958064384","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":239} with a duration of 1.32700490952s 
+{"id":231,"startDate":"2022-08-21T12:21:48.731259613","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":240} with a duration of 0.614578962326s 
+{"id":232,"startDate":"2022-08-21T12:21:49.916370747","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":241} with a duration of 1.3250451088s 
+{"id":233,"startDate":"2022-08-21T12:21:50.68050334","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":242} with a duration of 0.614109992981s 
+{"id":234,"startDate":"2022-08-21T12:21:51.883360502","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":243} with a duration of 1.53282189369s 
+{"id":235,"startDate":"2022-08-21T12:21:52.846390769","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":244} with a duration of 0.452154159546s 
+{"id":236,"startDate":"2022-08-21T12:21:53.868925166","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":245} with a duration of 1.48680090904s 
+{"id":237,"startDate":"2022-08-21T12:21:54.805602353","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":246} with a duration of 0.465543031693s 
+{"id":238,"startDate":"2022-08-21T12:21:55.807443327","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":247} with a duration of 1.47681713104s 
+{"id":239,"startDate":"2022-08-21T12:21:56.713783855","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":248} with a duration of 0.42372584343s 
+{"id":240,"startDate":"2022-08-21T12:21:57.71938519","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":249} with a duration of 1.27263021469s 
+{"id":241,"startDate":"2022-08-21T12:21:58.439342711","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":250} with a duration of 0.547650098801s 
+{"id":242,"startDate":"2022-08-21T12:21:59.55892492","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":251} with a duration of 1.33067011833s 
+{"id":243,"startDate":"2022-08-21T12:22:00.32647066","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":252} with a duration of 0.608824968338s 
+{"id":244,"startDate":"2022-08-21T12:22:01.48035726","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":253} with a duration of 1.32375407219s 
+{"id":245,"startDate":"2022-08-21T12:22:02.268051972","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":254} with a duration of 0.451336145401s 
+{"id":246,"startDate":"2022-08-21T12:22:03.28157188","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":255} with a duration of 1.48916196823s 
+{"id":247,"startDate":"2022-08-21T12:22:04.209194533","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":256} with a duration of 0.448469161987s 
+{"id":248,"startDate":"2022-08-21T12:22:05.224646543","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":257} with a duration of 1.26689696312s 
+{"id":249,"startDate":"2022-08-21T12:22:05.952565234","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":258} with a duration of 0.531921863556s 
+{"id":250,"startDate":"2022-08-21T12:22:07.021325975","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":259} with a duration of 1.26538300514s 
+{"id":251,"startDate":"2022-08-21T12:22:07.751841368","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":260} with a duration of 0.476592063904s 
+{"id":252,"startDate":"2022-08-21T12:22:08.770051488","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":261} with a duration of 1.72977280617s 
+{"id":253,"startDate":"2022-08-21T12:22:09.930743186","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":262} with a duration of 0.436239004135s 
+{"id":254,"startDate":"2022-08-21T12:22:10.936957617","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":263} with a duration of 1.26207613945s 
+{"id":255,"startDate":"2022-08-21T12:22:11.634196728","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":264} with a duration of 0.448544025421s 
+{"id":256,"startDate":"2022-08-21T12:22:12.699906353","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":265} with a duration of 1.42417287827s 
+{"id":257,"startDate":"2022-08-21T12:22:13.532600498","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":266} with a duration of 0.610774993896s 
+{"id":258,"startDate":"2022-08-21T12:22:14.724179618","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":267} with a duration of 1.32934498787s 
+{"id":259,"startDate":"2022-08-21T12:22:15.457914618","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":268} with a duration of 0.612982988358s 
+{"id":260,"startDate":"2022-08-21T12:22:16.657319405","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":269} with a duration of 1.32549595833s 
+{"id":261,"startDate":"2022-08-21T12:22:17.413869613","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":270} with a duration of 0.615368127823s 
+{"id":262,"startDate":"2022-08-21T12:22:18.592920087","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":271} with a duration of 1.25979995728s 
+{"id":263,"startDate":"2022-08-21T12:22:19.283738783","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":272} with a duration of 0.42692899704s 
+{"id":264,"startDate":"2022-08-21T12:22:20.27854185","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":273} with a duration of 1.27164006233s 
+{"id":265,"startDate":"2022-08-21T12:22:20.982719141","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":274} with a duration of 0.422487974167s 
+{"id":266,"startDate":"2022-08-21T12:22:21.968922571","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":275} with a duration of 1.520362854s 
+{"id":267,"startDate":"2022-08-21T12:22:22.979608142","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":276} with a duration of 0.538583993912s 
+{"id":268,"startDate":"2022-08-21T12:22:24.036074602","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":277} with a duration of 1.40165495872s 
+{"id":269,"startDate":"2022-08-21T12:22:24.879208149","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":278} with a duration of 0.480186223984s 
+{"id":270,"startDate":"2022-08-21T12:22:25.926129439","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":279} with a duration of 1.24736809731s 
+{"id":271,"startDate":"2022-08-21T12:22:26.613382386","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":280} with a duration of 0.513652086258s 
+{"id":272,"startDate":"2022-08-21T12:22:27.712362387","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":281} with a duration of 1.53544902802s 
+{"id":273,"startDate":"2022-08-21T12:22:28.683786186","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":282} with a duration of 0.440163135529s 
+{"id":274,"startDate":"2022-08-21T12:22:29.674320485","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":283} with a duration of 1.25573992729s 
+{"id":275,"startDate":"2022-08-21T12:22:30.374844227","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":284} with a duration of 0.856135129929s 
+{"id":276,"startDate":"2022-08-21T12:22:31.813329647","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":285} with a duration of 1.327657938s 
+{"id":277,"startDate":"2022-08-21T12:22:32.545041609","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":286} with a duration of 0.609678030014s 
+{"id":278,"startDate":"2022-08-21T12:22:33.740205441","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":287} with a duration of 1.30356287956s 
+{"id":279,"startDate":"2022-08-21T12:22:34.513932579","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":288} with a duration of 0.637447834015s 
+{"id":280,"startDate":"2022-08-21T12:22:35.682531671","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":289} with a duration of 1.32553696632s 
+{"id":281,"startDate":"2022-08-21T12:22:36.450363813","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":290} with a duration of 0.611452102661s 
+{"id":282,"startDate":"2022-08-21T12:22:37.655576967","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":291} with a duration of 1.32279396057s 
+{"id":283,"startDate":"2022-08-21T12:22:38.399480965","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":292} with a duration of 0.610913038254s 
+{"id":284,"startDate":"2022-08-21T12:22:39.573626245","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":293} with a duration of 1.32799816132s 
+{"id":285,"startDate":"2022-08-21T12:22:40.333649222","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":294} with a duration of 0.612648010254s 
+{"id":286,"startDate":"2022-08-21T12:22:42.319387852","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":295} with a duration of 2.14936089516s 
+{"id":287,"startDate":"2022-08-21T12:22:43.11486265","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":296} with a duration of 0.448554992676s 
+{"id":288,"startDate":"2022-08-21T12:22:44.125263249","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":297} with a duration of 1.28682994843s 
+{"id":289,"startDate":"2022-08-21T12:22:44.843437204","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":13,"patientId":298} with a duration of 0.611426830292s 
+{"id":290,"startDate":"2022-08-21T12:22:46.02992851","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":299} with a duration of 1.32800197601s 
+{"id":291,"startDate":"2022-08-21T12:22:46.787727477","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":300} with a duration of 0.43097281456s 
+{"id":292,"startDate":"2022-08-21T12:22:47.782235697","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":13,"patientId":301} with a duration of 1.50912690163s 
+{"id":293,"startDate":"2022-08-21T12:22:48.755099327","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":302} with a duration of 0.441315889359s 
+{"id":294,"startDate":"2022-08-21T12:22:49.751947192","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":303} with a duration of 1.37650799751s 
+{"id":295,"startDate":"2022-08-21T12:22:50.585779625","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":304} with a duration of 0.450988054276s 
+{"id":296,"startDate":"2022-08-21T12:22:51.597356941","endDate":null,"hostName":"machine-poc-medhead-production-2","bedId":1,"patientId":305} with a duration of 1.27929401398s 
+{"id":297,"startDate":"2022-08-21T12:22:52.289931607","endDate":null,"hostName":"machine-poc-medhead-production-1","bedId":1,"patientId":306} with a duration of 0.63719701767s 
+100 requests. Total duration of 95.5534114838s
