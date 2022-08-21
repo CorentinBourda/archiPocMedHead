@@ -22,7 +22,7 @@ Afin de permettre aux équipes de se préparer le mieux possible aux risques du 
 **B. IT (Tests, DevOps, Sécurité, disponibilité): nos principes d'architecture:**
 - Tests:
   - Le code coverage maximum: Afin de nous assurer de la qualité u code avant chaque livraison, nous pensons qu'il est très important de mettre en place une application avec un haut taux de code coverage (< 80%) ce qui permet d'éviter un maximum les régressions
-  - Les différents niveaux de test: Afin de détecter un maximum de régressions, il sera primordial de faire différents types de tests selon le principe de la pyramide des tests comme cela est expliqué dans le [document de stratégie de test](∼/Artefacts/Document%20de%20strategie%20de%20test/README.md)
+  - Les différents niveaux de test: Afin de détecter un maximum de régressions, il sera primordial de faire différents types de tests selon le principe de la pyramide des tests comme cela est expliqué dans le [document de stratégie de test](../Artefacts/Document%20de%20strategie%20de%20test/README.md)
 - DevOps:
   - Automatisation des processus: Afin de faire économiser du temps à nos équipes de développement, nous mettrons en place de pipelines à même de construire de nouvelles images Docker à chaque nouvelle fonctionalité livrée.
   - Intégration des tests dans la CI/CD: Nous intégrerons les tests dans la CI/CD afin de ne permettre à aucune régression de passer en production
