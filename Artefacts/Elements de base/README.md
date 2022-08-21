@@ -18,8 +18,14 @@ Afin de respecter les exigences de l’application cible nous mettrons en place 
 
 **Couche applicative de l'API:**
 ![Schéma de la couche applicative de l'API](../../Images/applicative.png "Schéma de la couche applicative de l'API")
-Ce schéma montre les différents composants de l’application de recette qui nous permettront de prouver la faisabilité de votre projet. Lorsque l’utilisateur fait une requête pour une réservation, le serveur SpringBoot communique avec le BDD MySQL avec le protocole SSL afin de faire des actions de CRUD sur la base de données. De plus, le serveur opourbtient l’information sur l'hôpital le plus proche avec un serveur de geocoding installé sur le cluster. Ce serveur de Geocoding verra ses données mise à jour à raison d’une fois par semaine par un jo qui ira chercher les informations sur le site GeoFabrik
+Ce schéma montre les différents composants de l’application de recette qui nous permettront de prouver la faisabilité de votre projet. Lorsque l’utilisateur fait une requête pour une réservation, le serveur SpringBoot communique avec le BDD MySQL avec le protocole SSL afin de faire des actions de CRUD sur la base de données. De plus, le serveur opourbtient l’information sur l'hôpital le plus proche avec un serveur de geocoding installé sur le cluster. Ce serveur de Geocoding verra ses données mise à jour à raison d’une fois par semaine par un jo qui ira chercher les informations sur le site Mapbox
 
 **Couche d'infrastructure de l'API:**
 ![Schéma de la couche infra de l'API](../../Images/infra.png "Schéma de la couche infra de l'API")
 La couche infrastructure repose sur l'utilisation de l'outil Docker Swarm afin de coordonner les différents composants qui nous permettent de faire fonctionner notre application. Elle sera composées de 3 nodes qui permettront de fournir une haute disponibilité de l'application.
+
+**Couche technologique de l'API:**
+Afin de résoudre les différents problèmes techniques posés par les containtes de l'API nous nous appuierons sur quelques solutions techniques préexistantes qu'il convient de détailler:
+Spring-boot: Spring boot est un framework de développement java qui permet entre autres de grandement faciliter le développement d'API Rest Java. Cela permet de suivre un pattern efficace pur mettre en place rapidement une API Rest en utilisant un langage qui a fait ses preuves pour les projets comme le notre.
+Docker: Docker est un système permettant de mettre en place des instances d'une application en utilisant les ressources d'une machine tout en fonctionant indépendament. L'utilisation de Docker est cruciale pour nous permettre de faire passer le code sur les serverus de production de façon automatisée ainsi que du permettre la communication entre les différents éléments du cluster.
+Nginx: Nginx est un logiciel open source de serveur web. Dans le cadre de la réalisation de notre API nous utiliserons Nginx en tant que load balancer afin de répartir la charge entre les deux serveurs et de permettre le fonctionner de l'API avec une instance HS.
