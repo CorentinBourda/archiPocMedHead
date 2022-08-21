@@ -15,7 +15,7 @@ Afin de vérifier quel serveur répond à nos requêtes, le endpoint renvoie le 
   - Méthodologie:
     Nous provoquerons voulontairement la fermeture de serveurs qui assurent le fonctionement de l'application et nous vérifierons que l'application continue à tourner comme précédement avec le même nombre de nodes. Le script dressant les rapports de tests exécute d'abord 20 appels sur l'API dont nous devons vérifier qu'ils ont distribués sur les 2 serveurs. Une fois les 20 appels effectués nous mettons le premier serveur hors-service et nous étudions le comportement de l'API.
   - Résultats:
-    Nous avons fait des tests de haute disponibilité dont le rapport est disponible dans le fichier [High Disponibility](/artefacts/high_disponibility.txt).
+    Nous avons fait des tests de haute disponibilité dont le rapport est disponible dans le fichier [High Disponibility](/Artefacts/Hypothese%20de%20validation%20de%20principe/artefacts/high_disponibility.txt).
     Sur le rapport de l'exécution nous pouvons voir que les 20 premières requètes s'effectuent en répartition sur les 2 serveurs. Une fois que nous mettons le premier serveur hors service, les 20 dernières requêtes sont effectuées uniquement sur le second serveur, **ce qui prouve que l'API peut continuer de fonctionner après l'interuption d'un service**
     Une fois le premier serveur mis hors service, le container spring boot pourra être remis sur pied de façon automatique grâce aux fonctionalités des objets Docker service
 
@@ -24,7 +24,7 @@ Afin de vérifier quel serveur répond à nos requêtes, le endpoint renvoie le 
   - Méthodologie:
     Nous ferons un script Python afin de faire 100 requêtes en un laps de temps très court et nous vérifierons que toutes les requêtes ont étées éxécutées.
   - Résultats:
-    Le rapport d'exécution du script python est disponible dans le fichier [Numerous Requests](/artefacts/numerous_requests.txt).
+    Le rapport d'exécution du script python est disponible dans le fichier [Numerous Requests](/Artefacts/Hypothese%20de%20validation%20de%20principe/artefacts/numerous_requests.txt).
     Le script python exécuté montre que 100 réquêtes ont été effectués, toutes ayant des codes de succès. Cela montre que les serveurs sont capables d'encaisser un fort trafic et répartir la charge entre les deux serveurs.
 
 - Temps de réponse:
@@ -32,7 +32,7 @@ Afin de vérifier quel serveur répond à nos requêtes, le endpoint renvoie le 
   - Méthodologie:
     Dans le même script python évoqué ci-dessus nous ferons en sorte de calculer le temps de réponse et nous vérifierons que celui-ci n'éxcède jamais 1000ms
   - Résultats:
-    Le rapport d'exécution du script python est disponible dans le fichier [Response Time](/artefacts/response_time.txt).
+    Le rapport d'exécution du script python est disponible dans le fichier [Response Time](/artefacts/response_time.txt /Artefacts/Hypothese%20de%20validation%20de%20principe/artefacts/response_time.txt).
     Le rapport des éxécution montre bien que sur un total de 10 requêtes, le temps de réponse moyen est de moins de une seconde (0.98s) ce qui confirme notre hypothèse.
     Le temps de réponse reste cependant assez conséquent et beaucoup de facteurs peuvent venir le diminiuer. Tout d'abord, nous utilisons des serveurs digital ocean tous situés en Angleterre et aux états unis. Cela impacte beaucoup le temps de réponse et l'utilisation de serveurs français uniquement pourrais le diminuer. De plus, l'appel à l'API de MapBox ralentit le procesus et l'utilisation de serveurs de GeoCoding à l'intérieur de notre cluster pourra considérablement réduire le temps de réponse. Ces améliration nécésittent d'invetir du temps de développement, il sera possible de les mettre en place lors du développement de l'application.
 
