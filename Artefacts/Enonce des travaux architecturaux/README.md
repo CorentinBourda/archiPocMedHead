@@ -27,4 +27,4 @@ Afin de garantir la bonne conduite du projet, nous avons définis les différent
 ![Les différentes phase](../../Images/raci.png "Les différents rôles des parties prennantes")
 
 **Approbations:**
-En plus de respecter les KPIs fixées dans les [hypopthèses de validation](../Hypothese%20de%20validation/README.md), le projet devra être validé par l'équipe de direction de projet afin de pouvoir commencer.
+En plus de respecter les KPIs fixées dans les [hypopthèses de validation](../Hypothese%20de%20validation%20de%20principe/README.md), le projet devra être validé par l'équipe de direction de projet afin de pouvoir commencer.
