@@ -1,7 +1,7 @@
 # Hypothèse de validation des principes
 
 Notre PoC a pour but de démontrer la faisabilié du projet de MedHead sur les aspects cruciaux liés aux enjeux du secteur médical. Traitant des urgence parfos vitales, le fonctionement de ntre futur API se doit d'être à tous les niveaux irréprochable et nous devons ainsi vérifier que cela est réalisable avec les technoogies à notre disposition.
-Nous avons écrit des scripts permettant de faire des rapports d'excution permettant de démontrer le fonctionement des différents aspects crucieaux que l'API devra respecter pour fonctionner. Les scripts python nous ayant servis à écrire les rapports de tests afin de constituer notre PoC sont disponibles [ici](./Artefacts/Hypothese%20de%20validation%20de%20principe/artefacts/api_poc.py)
+Nous avons écrit des scripts permettant de faire des rapports d'excution permettant de démontrer le fonctionement des différents aspects crucieaux que l'API devra respecter pour fonctionner. Les scripts python nous ayant servis à écrire les rapports de tests afin de constituer notre PoC sont disponibles [ici](/Artefacts/Hypothese%20de%20validation%20de%20principe/artefacts/api_poc.py)
 Afin de vérifier quel serveur répond à nos requêtes, le endpoint renvoie le nom du host qui a répondu. Les noms des hôtes sont: machine-poc-medhead-production-1 pour le premier serveur et machine-poc-medhead-production-2 pour le second.
 - Tests de l'application:
   Afin de nous assurer qu'aucune régression ne pourra venir perturber le fonctionement des prises en charge, ce qui aurrait un impact dramatique, nous devons nous assurer qu'il est possible de mettre en place une API avec un niveau de test convenable à même de détecter tout type de régression. Le code coverage devra être supérieur à 80%
