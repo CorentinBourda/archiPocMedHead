@@ -23,6 +23,8 @@ Afin d'être en accord avec les principes de la méthodologie TOGAF nous avons d
 Afin de pouvoir commencer le développpement de l'API de prise en charge des patients il faudra que notre PoC ai d'abord démontré la faisabilité de chaque contrainte du projet, celles-ci ayant été définies dans le document des [hypopthèses de validation](../Hypothese%20de%20validation/README.md)
 
 **Plan et calendrier du projet d’architecture:**
+Afin de garantir la bonne conduite du projet, nous avons définis les différents rôles des parties prennantes dans la matrice RACI ci-dessous:
+![Les différentes phase](../../Images/raci.png "Les différents rôles des parties prennantes")
 
 **Approbations:**
 En plus de respecter les KPIs fixées dans les [hypopthèses de validation](../Hypothese%20de%20validation/README.md), le projet devra être validé par l'équipe de direction de projet afin de pouvoir commencer.

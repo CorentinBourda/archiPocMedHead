@@ -27,7 +27,7 @@ Afin de permettre aux équipes de se préparer le mieux possible aux risques du 
   - Automatisation des processus: Afin de faire économiser du temps à nos équipes de développement, nous mettrons en place de pipelines à même de construire de nouvelles images Docker à chaque nouvelle fonctionalité livrée.
   - Intégration des tests dans la CI/CD: Nous intégrerons les tests dans la CI/CD afin de ne permettre à aucune régression de passer en production
 - Sécurité
-  -
+  - Afin de maximiser la sécurité, les comunication se feront uniquement via les network que nous pourrons mettre en place via Docker afin de minimiser les risques de vols de données. Le protcole HTTP est utilisé dans le cadre du développement de l'application cependant il sera primordial de mettre en place le protcole HTTPS pour l'application cible afin de garantir la sécurité des données.
 - Disponibilité:
   - Mise en place de 2 serveurs: Afin de permettre la haute disponibilité de l'application nus mettrons en place 2 serveurs au sein d'un cluster Docker Swarm qui permettra de maintenir le fonctionement de l'application dans le cas où un des deux serveurs tombe en panne.
 
